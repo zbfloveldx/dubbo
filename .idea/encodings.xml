@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dubbo-xml-springboot" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dubbo-xml-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-properties-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-xml-springboot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-xml-springboot/dubbo-xml-springboot-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-xml-springboot/dubbo-xml-springboot-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-xml-springboot/dubbo-xml-springboot-provider" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
