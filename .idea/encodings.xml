@@ -2,6 +2,10 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-annotation-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-annotation-springboot/dubbo-annotation-springboot-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-annotation-springboot/dubbo-annotation-springboot-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-annotation-springboot/dubbo-annotation-springboot-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-properties-springboot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-consumer" charset="UTF-8" />

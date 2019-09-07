@@ -31,23 +31,24 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-properties-springboot/dubbo-properties-springboot-consumer/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-annotation-springboot/dubbo-annotation-springboot-consumer/src/main/resources" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zbf.server" />
+      <recent name="com.zbf.config" />
       <recent name="com.zbf.controller" />
       <recent name="com.zbf" />
       <recent name="com.zbf.service" />
+      <recent name="com.zbf.server" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\GitHub\dubbo\dubbo-annotation-springboot\dubbo-annotation-springboot-consumer\src\main\resources" />
+      <recent name="E:\code\GitHub\dubbo\dubbo-annotation-springboot\dubbo-annotation-springboot-provider\src\main\resources" />
+      <recent name="E:\code\GitHub\dubbo\dubbo-annotation-springboot\dubbo-annotation-springboot-provider\src\main\java\com\zbf" />
       <recent name="E:\code\GitHub\dubbo\dubbo-properties-springboot\dubbo-properties-springboot-consumer\src\main\resources" />
       <recent name="E:\code\GitHub\dubbo\dubbo-properties-springboot\dubbo-properties-springboot-provider\src\main\resources" />
-      <recent name="E:\code\GitHub\dubbo\dubbo-xml-springboot\dubbo-xml-springboot-consumer\src\main\resources" />
-      <recent name="E:\code\GitHub\dubbo\dubbo-xml-springboot\dubbo-xml-springboot-provider\src\main\resources" />
-      <recent name="E:\code\GitHub\dubbo\dubbo-xml-springboot\dubbo-xml-springboot-provider\src\main\java\com\zbf\server" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,9 +63,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DubboConsumerApplication (1)">
+  <component name="RunManager" selected="Spring Boot.DubboConsumerApplication (2)">
     <configuration name="DubboConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="dubbo-properties-springboot-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zbf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.DubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboConsumerApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-annotation-springboot-consumer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zbf.*" />
@@ -102,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="dubbo-xml-springboot-provider" />
+    <configuration name="DubboProviderApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-annotation-springboot-provider" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zbf.*" />
@@ -117,10 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DubboConsumerApplication (2)" />
+        <item itemvalue="Spring Boot.DubboProviderApplication (2)" />
         <item itemvalue="Spring Boot.DubboConsumerApplication (1)" />
         <item itemvalue="Spring Boot.DubboProviderApplication (1)" />
         <item itemvalue="Spring Boot.DubboConsumerApplication" />
-        <item itemvalue="Spring Boot.DubboProviderApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567756949271</updated>
       <workItem from="1567756952180" duration="4795000" />
-      <workItem from="1567835361114" duration="2333000" />
+      <workItem from="1567835361114" duration="4133000" />
     </task>
     <servers />
   </component>
