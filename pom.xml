@@ -11,6 +11,7 @@
         <module>dubbo-xml-springboot</module>
         <module>dubbo-properties-springboot</module>
         <module>dubbo-annotation-springboot</module>
+        <module>dubbo-admin</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
